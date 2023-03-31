@@ -113,7 +113,8 @@ int is_digit(char);
 
 long int convert_size_number(long int num, int size);
 long int convert_size_unsgnd(unsigned long int num, int size);
-int _putchar(char c)
-int _puts(char *str)
+int _putchar(char c);
+int _puts(char *str);
+int print_percent(va_list l, flags_t *f);
 
 #endif /* MAIN_H */
