@@ -7,7 +7,7 @@
  * @representation: pointer parameter
  *
  * Description: This function takes 0123456789ABCDEF or 0123456789abcdef
- * 		in representation parameter for print hexadecimal format
+ *		in representation parameter for print hexadecimal format
  * Return: num of characters
  */
 
