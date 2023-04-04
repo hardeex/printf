@@ -1,10 +1,13 @@
 #include <stdlib.h>
 #include <unistd.h>
+#include "main.h"
 
 /**
  *_puts - print string
  *Description: print some string
+ *
  *@str: pointer char
+ *
  *Return: Nothing
  */
 
